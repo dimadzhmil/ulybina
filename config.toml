@@ -124,7 +124,7 @@ disableKinds = ["taxonomy", "term"]
     hide = false # Set this to true if you don't want to have a contact form on your site
     formspreeID = "myuniqueID" # Getting value from Formspree integration endpoint (eg. https://formspree.io/f/myuniqueID)
     headline = "Зв'язатись"
-	buttonText = "Відправити"
+    buttonText = "Відправити"
     resetText = "Скинути"
 
     # 'warning' defines error messages for invalid inputs
