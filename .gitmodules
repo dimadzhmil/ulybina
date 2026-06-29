@@ -1,0 +1,6 @@
+[submodule "themes/autophugo"]
+	path = themes/autophugo
+	url = https://github.com/kc0bfv/autophugo
+[submodule "themes/gallery"]
+	path = themes/gallery
+	url = https://github.com/nicokaiser/hugo-theme-gallery.git

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Графіка &#39;Ex Spatium&#39; on Ulybina Art</title>
+		<link>http://localhost:1313/graf/</link>
+		<description>Recent content in Графіка &#39;Ex Spatium&#39; on Ulybina Art</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+			<managingEditor>lesya.ulybina@gmail.com (Lesya Ulybina)</managingEditor>
+		
+		
+			<webMaster>lesya.ulybina@gmail.com (Lesya Ulybina)</webMaster>
+		
+		
+		
+			<lastBuildDate></lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/graf/index.xml" rel="self" type="application/rss+xml" />
+	</channel>
+</rss>

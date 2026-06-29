@@ -1,0 +1,4 @@
+baseURL = 'https://ulybina.art/'
+locale = 'en-us'
+title = 'Ulybina Art'
+theme = 'autophugo'

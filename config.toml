@@ -1,0 +1,145 @@
+# Settings
+baseurl = "http://example.org/"
+languageCode = "en-us"
+title = "Ulybina Art"
+theme = "autophugo"
+disableKinds = ["taxonomy", "term"]
+#[taxonomies]
+#    tag = "tags"
+#    category = "categories"
+
+[services]
+    [services.googleAnalytics]
+        #ID = 'G-MEASUREMENT_ID'
+
+[params]
+    # Meta
+    description = "AutoPhugo - Photo Gallery on Hugo"
+    keywords = "phugo, hugo, photogallery, photoblog, hugo theme"
+    #msvalidate = ""
+    #googlesiteverification = ""
+    #thumb_width = 480
+    #thumb_quality = 50
+    #full_width = 960
+    #full_quality = 90
+    column_count = 2
+    #breadcrumb_use_title = false
+    #filename_as_phototitle = false
+    #images_downloadable = true
+    #images_downloadable_use_orig = false
+    #taxonomies_links = false
+
+    #[params.social]
+    #twitter = "twitter_example"
+    #facebook_admin = "facebook_example"
+
+    [params.author]
+    name = "Lesya Ulybina"
+    email = "lesya.ulybina@gmail.com"
+
+    # Headerbar links
+    # Do not put too many links here,
+    # it will break mobile appearance
+
+    [[params.header.links]]
+    name = "Blog"
+    url = "#blog"
+    icon = "fa-bullhorn"
+
+    [params.header.paragraph]
+    headline = "Резюме Лесі Улибіни"
+		text = """Закінчила музичне училище по класу фортепіано та філологічний
+		факультет Ужгородського державного університету.
+"""
+
+    [[params.header.links]]
+    name = "About"
+    url = "#footer"
+    icon = "fa-info-circle"
+
+    # Footer panel
+
+    [params.footer.paragraph]
+    headline = "Резюме Лесі Улибіни"
+		text = """Закінчила музичне училище по класу фортепіано та філологічний
+		факультет Ужгородського державного університету.
+
+У публічному творчому просторі з 2017 року. Брала участь у 3-х міжнародних
+виставках, 10-ти Всеукраїнських та 9-обласних.Також була учасницею проєкту
+'Ukrain with Love'. В творчому доробку виставки в Києві: 'Ad Libitum' 2019 рік,
+та 'Ex Spatium' 2025рік. Отримала диплом лауреата першого українського
+міжнародного трієнале 'У краю сірих перлин' (проєкт 'Art Nova') за художній
+твір 'Сингулярність'. Вийшла у фінал міжнародного конкурсу 'The Best Artist'
+2021. В тому ж році отримала іменний сертифікат за участь у міжнародному
+конкурсі 'Luxemburg Art Prize'.
+
+Працюю в царині графіки та авторській паперовій пластиці. Захоплює ритм
+архітектури,сакральна геометрія у поєднанні з творчістю. Просторово-об'ємне
+бачення приваблює невичерпними можливостями проявити непроявлене(уявне)у
+дослідженні двох категорій - 'повноти' і 'пустоти'.
+"""
+
+    [params.footer.social]
+    headline = "Знайдете мене в..."
+
+    [[params.footer.social.links]]
+    label = "Twitter"
+    url = "#"
+    icon = "fa-twitter"
+
+    [[params.footer.social.links]]
+    label = "Facebook"
+    url = "#"
+    icon = "fa-facebook"
+
+    [[params.footer.social.links]]
+    label = "Instagram"
+    url = "#"
+    icon = "fa-instagram"
+
+    [[params.footer.social.links]]
+    label = "Github"
+    url = "#"
+    icon = "fa-github"
+
+    [[params.footer.social.links]]
+    label = "LinkedIn"
+    url = "#"
+    icon = "fa-linkedin"
+
+    # Contact form
+
+    # Since this template is static, the contact form uses www.formspree.io as a
+    # proxy. The form makes a POST request to their servers to send the actual
+    # email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your integration endpoint address under 'formspreeID' below
+    # - create a formspree account and a simple form 
+    # - then get the integration endpoint generated to you form
+    # - you're done. Happy mailing!
+
+    [params.footer.contact]
+    hide = false # Set this to true if you don't want to have a contact form on your site
+    formspreeID = "myuniqueID" # Getting value from Formspree integration endpoint (eg. https://formspree.io/f/myuniqueID)
+    headline = "Зв'язатись"
+	buttonText = "Відправити"
+    resetText = "Скинути"
+
+    # 'warning' defines error messages for invalid inputs
+    [params.footer.contact.name]
+    text = "Ім'я *"
+    warning = "Будь-ласка, вкажіть своє ім'я"
+
+    [params.footer.contact.email]
+    text = "Email *"
+    warning = "Будь-ласка, вкажіть свій email"
+
+    [params.footer.contact.message]
+    text = "Повідомлення *"
+    warning = "Будь-ласка, введіть повідомлення"
+
+    # Copyright
+    [params.footer.copyright]
+    name = "Леся Улибіна"
