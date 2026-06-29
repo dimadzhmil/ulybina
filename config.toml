@@ -47,7 +47,7 @@ disableKinds = ["taxonomy", "term"]
     icon = "fa-bullhorn"
 
     [params.header.paragraph]
-    headline = "Резюме Лесі Улибіни"
+    headline = "Резюме Лесі Улибіної"
 		text = """Закінчила музичне училище по класу фортепіано та філологічний
 		факультет Ужгородського державного університету.
 """
