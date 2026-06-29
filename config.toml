@@ -41,16 +41,16 @@ disableKinds = ["taxonomy", "term"]
     # Do not put too many links here,
     # it will break mobile appearance
 
-    [[params.header.links]]
-    name = "Blog"
-    url = "#blog"
-    icon = "fa-bullhorn"
-
-    [params.header.paragraph]
-    headline = "Резюме Лесі Улибіної"
-		text = """Закінчила музичне училище по класу фортепіано та філологічний
-		факультет Ужгородського державного університету.
-"""
+#     [[params.header.links]]
+#     name = "Blog"
+#     url = "#blog"
+#     icon = "fa-bullhorn"
+#
+#     [params.header.paragraph]
+#     headline = "Резюме Лесі Улибіної"
+# 		text = """Закінчила музичне училище по класу фортепіано та філологічний
+# 		факультет Ужгородського державного університету.
+# """
 
     [[params.header.links]]
     name = "About"
@@ -60,7 +60,7 @@ disableKinds = ["taxonomy", "term"]
     # Footer panel
 
     [params.footer.paragraph]
-    headline = "Резюме Лесі Улибіни"
+    headline = "Резюме Лесі Улибіної"
 		text = """Закінчила музичне училище по класу фортепіано та філологічний
 		факультет Ужгородського державного університету.
 
