@@ -42,7 +42,7 @@ disableKinds = ["taxonomy", "term"]
     # it will break mobile appearance
 
     [[params.header.links]]
-    name = "Про мене"
+    name = "Контакти"
     url = "#footer"
     icon = "fa-info-circle"
 
