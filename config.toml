@@ -1,7 +1,7 @@
 # Settings
 baseurl = "http://example.org/"
 languageCode = "en-us"
-title = "Ulybina Art"
+title = "Улибіна Арт"
 theme = "autophugo"
 disableKinds = ["taxonomy", "term"]
 #[taxonomies]
@@ -14,7 +14,7 @@ disableKinds = ["taxonomy", "term"]
 
 [params]
     # Meta
-    description = "AutoPhugo - Photo Gallery on Hugo"
+    description = "Улибіна Арт"
     keywords = "phugo, hugo, photogallery, photoblog, hugo theme"
     #msvalidate = ""
     #googlesiteverification = ""
@@ -23,7 +23,7 @@ disableKinds = ["taxonomy", "term"]
     #full_width = 960
     #full_quality = 90
     column_count = 2
-    #breadcrumb_use_title = false
+    breadcrumb_use_title = true
     #filename_as_phototitle = false
     #images_downloadable = true
     #images_downloadable_use_orig = false
@@ -41,19 +41,8 @@ disableKinds = ["taxonomy", "term"]
     # Do not put too many links here,
     # it will break mobile appearance
 
-#     [[params.header.links]]
-#     name = "Blog"
-#     url = "#blog"
-#     icon = "fa-bullhorn"
-#
-#     [params.header.paragraph]
-#     headline = "Резюме Лесі Улибіної"
-# 		text = """Закінчила музичне училище по класу фортепіано та філологічний
-# 		факультет Ужгородського державного університету.
-# """
-
     [[params.header.links]]
-    name = "About"
+    name = "Про мене"
     url = "#footer"
     icon = "fa-info-circle"
 
