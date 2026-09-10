@@ -1,5 +1,5 @@
 ---
-title: "Графіка 'Ex Spatium'"
+title: "Вібраційно-інтуїтивна графіка 'Ex Spatium'"
 date: 2020-03-15T17:12:50-06:00
 weight: 0
 albumthumb: "graf/009.jpg"
