@@ -2,7 +2,7 @@
 title: "Вібраційно-інтуїтивна графіка 'Ex Spatium'"
 date: 2020-03-15T17:12:50-06:00
 weight: 0
-albumthumb: "graf/009.jpg"
+albumthumb: "graf/008.jpg"
 author:
   name: "Lesia Ulybina"
   email: "ulybina@gmail.com"
@@ -94,6 +94,4 @@ resources:
 - src: /graf/085.jpg
 - src: /graf/086.jpg
 - src: /graf/087.jpg
-- src: /graf/088.jpg
-- src: /graf/089.jpg
 ---

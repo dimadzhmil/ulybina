@@ -2,7 +2,7 @@
 title: "Архітектурно-просторові об'ємні форми 'Ad Libitum'"
 date: 2026-03-15T17:12:50-06:00
 weight: 0
-albumthumb: "spacial/114.jpg"
+albumthumb: "spacial/047.jpg"
 author:
   name: "Lesia Ulybina"
   email: "ulybina@gmail.com"
@@ -154,18 +154,4 @@ resources:
 - src: /spacial/145.jpg
 - src: /spacial/146.jpg
 - src: /spacial/147.jpg
-- src: /spacial/148.jpg
-- src: /spacial/149.jpg
-- src: /spacial/150.jpg
-- src: /spacial/151.jpg
-- src: /spacial/152.jpg
-- src: /spacial/153.jpg
-- src: /spacial/154.jpg
-- src: /spacial/155.jpg
-- src: /spacial/156.jpg
-- src: /spacial/157.jpg
-- src: /spacial/158.jpg
-- src: /spacial/159.jpg
-- src: /spacial/160.jpg
-- src: /spacial/161.jpg
 ---
