@@ -71,10 +71,10 @@ disableKinds = ["taxonomy", "term"]
     [params.footer.social]
     headline = "Знайдете мене в..."
 
-    [[params.footer.social.links]]
-    label = "Twitter"
-    url = "#"
-    icon = "fa-twitter"
+    # [[params.footer.social.links]]
+    # label = "Twitter"
+    # url = "#"
+    # icon = "fa-twitter"
 
     [[params.footer.social.links]]
     label = "Facebook"
@@ -86,15 +86,15 @@ disableKinds = ["taxonomy", "term"]
     url = "#"
     icon = "fa-instagram"
 
-    [[params.footer.social.links]]
-    label = "Github"
-    url = "#"
-    icon = "fa-github"
+    # [[params.footer.social.links]]
+    # label = "Github"
+    # url = "#"
+    # icon = "fa-github"
 
-    [[params.footer.social.links]]
-    label = "LinkedIn"
-    url = "#"
-    icon = "fa-linkedin"
+    # [[params.footer.social.links]]
+    # label = "LinkedIn"
+    # url = "#"
+    # icon = "fa-linkedin"
 
     # Contact form
 
