@@ -83,7 +83,7 @@ disableKinds = ["taxonomy", "term"]
 
     [[params.footer.social.links]]
     label = "Instagram"
-    url = "#"
+    url = "https://www.instagram.com/ulybina_art"
     icon = "fa-instagram"
 
     # [[params.footer.social.links]]
